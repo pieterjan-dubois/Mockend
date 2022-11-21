@@ -1,0 +1,31 @@
+{"songs": [{"id":1,"title":"1904","artist":"The Tallest Man on Earth","year":"2012"},
+{"id":2,"title":"#40","artist":"Dave Matthews","year":"1999"},
+{"id":3,"title":"40oz to Freedom","artist":"Sublime","year":"1996"},
+{"id":4,"title":"#41","artist":"Dave Matthews","year":"1996"},
+{"id":5,"title":"American Girl","artist":"Tom Petty","year":"1977"},
+{"id":6,"title":"American Music","artist":"Violent Femmes","year":"1991"},
+{"id":7,"title":"American Pie","artist":"Don McLean","year":"1972"},
+{"id":8,"title":"And it Stoned Me","artist":"Van Morrison","year":"1970"},
+{"id":9,"title":"A Sailor's Christmas","artist":"Jimmy Buffett","year":"1996"},
+{"id":10,"title":"Badfish","artist":"Sublime","year":"1996"},
+{"id":11,"title":"Banana Pancakes","artist":"Jack Johnson","year":"2005"},
+{"id":12,"title":"Barefoot Children","artist":"Jimmy Buffett","year":"1995"},
+{"id":13,"title":"Big Parade","artist":"The Lumineers","year":"2012"},
+{"id":14,"title":"Brown Eyed Girl","artist":"Van Morrison","year":"1967"},
+{"id":15,"title":"Cape Canaveral","artist":"Conor Oberst","year":"2008"},
+{"id":16,"title":"Carry On","artist":"fun.","year":"2012"},
+{"id":17,"title":"Catch the Wind","artist":"Donovan","year":"1965"},
+{"id":18,"title":"Cat's in the Cradle","artist":"Harry Chapin","year":"1974"},
+{"id":19,"title":"Changes in Latitudes, Changes in Attitudes","artist":"Jimmy Buffett","year":"1977"},
+{"id":20,"title":"Classy Lumineers","year":"2012"},
+{"id":21,"title":"Creep","artist":"Radiohead","year":"1993"},
+{"id":22,"title":"Danny Boy","artist":"Johnny Cash","year":"2002"},
+{"id":23,"title":"Darkness Between the Fireflies","artist":"Mason Jennings","year":"1997"},
+{"id":24,"title":"Dead Sea","artist":"The Lumineers","year":"2012"},
+{"id":25,"title":"Distantly in Love","artist":"Jimmy Buffett","year":"1983"},
+{"id":26,"title":"Don't Leave Me (Ne Me Quitte Pas)","artist":"Regina Spektor","year":"2012"}
+
+],
+"profile" : {
+    "name": "pieterjan-dubois"
+}}
